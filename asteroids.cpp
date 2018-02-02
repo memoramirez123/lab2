@@ -1,5 +1,5 @@
-//
-//
+//modified by: Guillermo Ramirez
+//Filled asteroid colors, created tally and rid of magic words
 //
 //
 //program: asteroids.cpp
